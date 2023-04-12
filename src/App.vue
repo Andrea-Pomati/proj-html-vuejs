@@ -1,6 +1,7 @@
 <script>
 import AppHeader from './components/AppHeader.vue';
 import AppJumbotron from './components/AppJumbotron.vue';
+import TheCompany from "./components/TheCompany.vue";
 export default {
 data() {
     return {
@@ -9,7 +10,8 @@ data() {
   },
   components: {
     AppHeader,
-    AppJumbotron
+    AppJumbotron,
+    TheCompany
 }
 }
 
@@ -19,6 +21,7 @@ data() {
 
 <AppHeader></AppHeader>
 <AppJumbotron></AppJumbotron>
+<TheCompany></TheCompany>
 
 </template>
 
