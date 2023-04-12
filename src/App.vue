@@ -2,6 +2,7 @@
 import AppHeader from './components/AppHeader.vue';
 import AppJumbotron from './components/AppJumbotron.vue';
 import ExcellenceInServices from './components/ExcellenceInServices.vue';
+import ProcessManagement from './components/ProcessManagement.vue';
 import TheCompany from "./components/TheCompany.vue";
 export default {
 data() {
@@ -13,7 +14,8 @@ data() {
     AppHeader,
     AppJumbotron,
     TheCompany,
-    ExcellenceInServices
+    ExcellenceInServices,
+    ProcessManagement
 }
 }
 
@@ -25,6 +27,7 @@ data() {
 <AppJumbotron></AppJumbotron>
 <TheCompany></TheCompany>
 <ExcellenceInServices></ExcellenceInServices>
+<ProcessManagement></ProcessManagement>
 
 </template>
 

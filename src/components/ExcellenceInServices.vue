@@ -170,12 +170,13 @@ export default {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 250px;
     margin-bottom: 400px;
+    padding: 0 50px;
 }
 .cards {
     
-    width: calc(100% / 3 - 20px / 3 * 2);
+    width: calc(100% / 3 - 250px / 3 * 2);
     display: flex;
     flex-direction: column;
     gap: 20px;
