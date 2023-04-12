@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "ProcessManagement.vue",
+  name: "ProcessManagement",
    data() {
      return {      
      }
@@ -145,7 +145,7 @@ export default {
     }
 
     p {
-        color: rgb(124, 124, 124);;
+        color: rgb(124, 124, 124);
     }
 }
 
