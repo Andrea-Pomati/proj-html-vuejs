@@ -115,7 +115,7 @@ export default {
     margin-left: auto;
     margin-right: auto;
     padding-top: 150px ;
-    padding-bottom: 150px;
+   
     display: flex;
     gap: 100px;
 }
@@ -157,7 +157,7 @@ export default {
 }
 
 #parte-sinistra {
-   ;
+   
     width: 70%;
 }
 
