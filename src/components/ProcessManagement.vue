@@ -121,7 +121,7 @@ export default {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 100px;
-    margin-bottom: 400px;
+    margin-bottom: 250px;
     padding: 0 50px;
 
 
