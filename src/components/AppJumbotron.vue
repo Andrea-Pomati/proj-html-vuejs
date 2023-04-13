@@ -46,7 +46,7 @@ export default {
 
         <div  id="flex-link">
             <div v-for="link in links">
-            <div>{{link.link}}</div>
+            <div class="hover">{{link.link}}</div>
         </div>
 
     </div>
@@ -199,5 +199,9 @@ export default {
     border: 1px solid #058283;
     color: #058283;
 
+}
+
+.hover:hover {
+    color: #058283;
 }
 </style>

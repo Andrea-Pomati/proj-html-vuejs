@@ -219,6 +219,10 @@ img {
     align-items: center;
 }
 
+.flex-chevron:hover {
+    color: #058283;
+}
+
 .background-cards {
     background-color: #19191F;
     padding: 20px 60px;

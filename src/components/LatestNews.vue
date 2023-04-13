@@ -42,7 +42,9 @@ export default {
                 <p>Working from home is now a trend</p>
             </div>
 
+            <!-- prova -->
 
+           
 
 
         </div>
@@ -142,4 +144,8 @@ img {
     filter: grayscale(50%); 
     
 }
+
+//prova
+
+
 </style>
