@@ -2,6 +2,7 @@
 import AppHeader from './components/AppHeader.vue';
 import AppJumbotron from './components/AppJumbotron.vue';
 import ExcellenceInServices from './components/ExcellenceInServices.vue';
+import KnowFirst from './components/KnowFirst.vue';
 import LatestNews from './components/LatestNews.vue';
 import ProcessManagement from './components/ProcessManagement.vue';
 import TeamOfExperts from './components/TeamOfExperts.vue';
@@ -19,7 +20,8 @@ data() {
     ExcellenceInServices,
     ProcessManagement,
     TeamOfExperts,
-    LatestNews
+    LatestNews,
+    KnowFirst
 }
 }
 
@@ -34,7 +36,7 @@ data() {
 <ProcessManagement></ProcessManagement>
 <TeamOfExperts></TeamOfExperts>
 <LatestNews></LatestNews>
-
+<KnowFirst></KnowFirst>
 </template>
 
 <style lang="scss" scoped>
