@@ -1,4 +1,5 @@
 <script>
+import AppFooter from './components/AppFooter.vue';
 import AppHeader from './components/AppHeader.vue';
 import AppJumbotron from './components/AppJumbotron.vue';
 import ExcellenceInServices from './components/ExcellenceInServices.vue';
@@ -21,7 +22,8 @@ data() {
     ProcessManagement,
     TeamOfExperts,
     LatestNews,
-    KnowFirst
+    KnowFirst,
+    AppFooter
 }
 }
 
@@ -37,6 +39,7 @@ data() {
 <TeamOfExperts></TeamOfExperts>
 <LatestNews></LatestNews>
 <KnowFirst></KnowFirst>
+<AppFooter></AppFooter>
 </template>
 
 <style lang="scss" scoped>
