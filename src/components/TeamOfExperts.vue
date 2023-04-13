@@ -202,4 +202,6 @@ export default {
     color: #02A4A6;
     font-size: 30px;
 }
+
+
 </style>

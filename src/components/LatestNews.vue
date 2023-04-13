@@ -5,6 +5,10 @@ export default {
      return {      
      }
    }
+
+ 
+   
+   
 }
 
 
@@ -42,7 +46,9 @@ export default {
                 <p>Working from home is now a trend</p>
             </div>
 
-            <!-- prova -->
+       
+
+         
 
            
 
